@@ -1,7 +1,6 @@
-hello
+hello!!!
 
-
-인덱스
+local update
 
 다시 수정
 
